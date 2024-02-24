@@ -17,7 +17,7 @@ const Experience: React.FC<{}> = () => {
           <p className="text-gray-300">SEP 2022 - PRESENT / BUENOS AIRES</p>
         </div>
         <p className="text-gray-300 pt-5">
-          At HMS, we are dedicated to providing comprehensive solutions for the efficient management of healthcare expenses, collaborating with Social Works and Prepaid Medicine. Our focus revolves around connectivity as a key facilitator, achieved through the development of a dynamic and flexible authorization center that manages health and administrative rules, seamlessly integrating with the entire industry's productive chain.
+          At HMS, we are dedicated to providing comprehensive solutions for the efficient management of healthcare expenses, collaborating with Social Works and Prepaid Medicine. Our focus revolves around connectivity as a key facilitator, achieved through the development of a dynamic and flexible authorization center that manages health and administrative rules, seamlessly integrating with the entire industry&apos;s productive chain.
           <br />
           <br />
           In my professional role, I lead the design and development of customized dashboards for health insurance clients at HMS. My role involves creating an application aimed at facilitating immediate access to credentials and communication with healthcare providers. This application integrates notifications, access to the medical directory, and more, enhancing the overall customer experience. I oversee the development of these dashboards, ensuring they align with the specific needs of insurance companies and their affiliates.
